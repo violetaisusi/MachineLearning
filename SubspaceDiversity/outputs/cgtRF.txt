@@ -1,0 +1,7 @@
+Dataset - cgt - Wed Apr 29 13:00:59 2015
+entropy -> 0.39486861410868
+overallAccuracyModel rate for this run 83.0186470244846 %
+correctly Classified for this run -> 598 -> of -> 707
+correctly Classified Rate -> Accuracy rate for this run -> 84.5827439886846 %
+AUC rate for this run -> 89.9476435755288 %
+Entropy - Diversity -> 0.39486861410868

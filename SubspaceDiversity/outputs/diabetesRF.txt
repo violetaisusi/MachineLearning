@@ -1,0 +1,7 @@
+Dataset - diabetes - Wed Apr 29 13:01:07 2015
+entropy -> 0.388124210992844
+overallAccuracyModel rate for this run 69.5231169626454 %
+correctly Classified for this run -> 189 -> of -> 255
+correctly Classified Rate -> Accuracy rate for this run -> 74.1176470588235 %
+AUC rate for this run -> 68.3436421173763 %
+Entropy - Diversity -> 0.388124210992844

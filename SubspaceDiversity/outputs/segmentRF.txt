@@ -1,0 +1,7 @@
+Dataset - segment - Wed Apr 29 12:44:37 2015
+entropy -> 0.401608008382998
+overallAccuracyModel rate for this run 96.4939153444832 %
+correctly Classified for this run -> 741 -> of -> 769
+correctly Classified Rate -> Accuracy rate for this run -> 96.3589076723017 %
+AUC rate for this run -> 99.5918478895159 %
+Entropy - Diversity -> 0.401608008382998

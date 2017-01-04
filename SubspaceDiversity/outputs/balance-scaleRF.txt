@@ -1,0 +1,7 @@
+Dataset - balance-scale - Wed Apr 29 13:00:59 2015
+entropy -> 0.496469148005735
+overallAccuracyModel rate for this run 61.293668575222 %
+correctly Classified for this run -> 164 -> of -> 207
+correctly Classified Rate -> Accuracy rate for this run -> 79.2270531400966 %
+AUC rate for this run -> 74.2438890302636 %
+Entropy - Diversity -> 0.496469148005735

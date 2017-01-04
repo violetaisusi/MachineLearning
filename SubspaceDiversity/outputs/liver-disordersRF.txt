@@ -1,0 +1,7 @@
+Dataset - liver-disorders - Wed Apr 29 13:01:06 2015
+entropy -> 0.482143441486196
+overallAccuracyModel rate for this run 65.2905684344236 %
+correctly Classified for this run -> 76 -> of -> 114
+correctly Classified Rate -> Accuracy rate for this run -> 66.6666666666667 %
+AUC rate for this run -> 65.5072463768116 %
+Entropy - Diversity -> 0.482143441486196

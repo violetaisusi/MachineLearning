@@ -1,0 +1,54 @@
+Dataset - cgt - Mon Apr 06 17:29:19 2015
+Run  1  Mon Apr 06 19:09:55 2015
+correctly Classified for this run -> 583 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 82.5779036827196 %
+AUC rate for this run -> 84.755436494494 %
+Entropy - Diversity rate for this run -> -> 21.3214524632378 -> %
+Run  2  Mon Apr 06 20:52:00 2015
+correctly Classified for this run -> 626 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 88.6685552407932 %
+AUC rate for this run -> 86.8449076748199 %
+Entropy - Diversity rate for this run -> -> 17.1580865353918 -> %
+Run  3  Mon Apr 06 22:31:18 2015
+correctly Classified for this run -> 570 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 80.7365439093484 %
+AUC rate for this run -> 85.3009716271299 %
+Entropy - Diversity rate for this run -> -> 21.5407438086526 -> %
+Run  4  Tue Apr 07 00:13:35 2015
+correctly Classified for this run -> 566 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 80.1699716713881 %
+AUC rate for this run -> 83.9609942536605 %
+Entropy - Diversity rate for this run -> -> 22.7109158493733 -> %
+Run  5  Tue Apr 07 01:54:44 2015
+correctly Classified for this run -> 629 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 89.0934844192635 %
+AUC rate for this run -> 85.9841454775198 %
+Entropy - Diversity rate for this run -> -> 20.5992563433136 -> %
+Run  6  Tue Apr 07 03:32:23 2015
+correctly Classified for this run -> 577 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 81.728045325779 %
+AUC rate for this run -> 85.380136970224 %
+Entropy - Diversity rate for this run -> -> 20.6045901977642 -> %
+Run  7  Tue Apr 07 05:10:51 2015
+correctly Classified for this run -> 629 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 89.0934844192635 %
+AUC rate for this run -> 84.977274766833 %
+Entropy - Diversity rate for this run -> -> 21.6878203649461 -> %
+Run  8  Tue Apr 07 06:49:35 2015
+correctly Classified for this run -> 590 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 83.5694050991501 %
+AUC rate for this run -> 85.2944843164693 %
+Entropy - Diversity rate for this run -> -> 20.6330975126737 -> %
+Run  9  Tue Apr 07 08:27:29 2015
+correctly Classified for this run -> 623 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 88.2436260623229 %
+AUC rate for this run -> 86.0953981108126 %
+Entropy - Diversity rate for this run -> -> 18.678148287933 -> %
+Run  10  Tue Apr 07 10:06:18 2015
+correctly Classified for this run -> 626 -> of -> 706
+correctly Classified Rate -> Accuracy rate for this run -> 88.6685552407932 %
+AUC rate for this run -> 85.5878260181993 %
+Entropy - Diversity rate for this run -> -> 19.839428984732 -> %
+Average Accuracy -> 85.2549575070822 %
+Average AUC -> 85.4181575710162 %
+Average Entropy - Diversity -> 20.4773540348018 %

@@ -1,0 +1,7 @@
+Dataset - iris - Sun May 03 21:57:03 2015
+entropy -> 0.526333293451585
+overallAccuracyModel rate for this run 91.3165266106443 %
+correctly Classified for this run -> 45 -> of -> 49
+correctly Classified Rate -> Accuracy rate for this run -> 91.8367346938776 %
+AUC rate for this run -> 98.9655862344938 %
+Entropy - Diversity -> 0.526333293451585

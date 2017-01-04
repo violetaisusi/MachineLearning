@@ -1,0 +1,113 @@
+@relation hungarian-14-heart-disease
+@attribute age real
+@attribute sex {female,male}
+@attribute chest_pain {typ_angina,asympt,non_anginal,atyp_angina}
+@attribute trestbps real
+@attribute chol real
+@attribute fbs { t,f}
+@attribute restecg {left_vent_hyper,normal,st_t_wave_abnormality}
+@attribute thalach real
+@attribute exang {no,yes}
+@attribute oldpeak real
+@attribute slope {down,flat,up}
+@attribute ca real
+@attribute thal {fixed_defect,normal,reversable_defect}
+@attribute class {<50,>50_1,>50_2,>50_3,>50_4}
+@data
+41,male,asympt,120,336,f,normal,118,yes,3,flat,?,?,>50_1
+56,male,non_anginal,130,276,f,normal,128,yes,1,up,?,fixed_defect,<50
+59,male,non_anginal,130,318,f,normal,120,yes,1,flat,?,normal,<50
+46,male,asympt,110,240,f,st_t_wave_abnormality,140,no,0,?,?,normal,<50
+47,male,typ_angina,110,249,f,normal,150,no,0,?,?,?,<50
+52,female,asympt,130,180,f,normal,140,yes,1.5,flat,?,?,<50
+55,male,non_anginal,120,220,f,left_vent_hyper,134,no,0,?,?,?,<50
+53,male,asympt,124,260,f,st_t_wave_abnormality,112,yes,3,flat,?,?,<50
+46,male,asympt,110,202,f,normal,150,yes,0,?,?,?,>50_1
+29,male,atyp_angina,140,?,f,normal,170,no,0,?,?,?,<50
+60,male,asympt,100,248,f,normal,125,no,1,flat,?,?,>50_1
+52,male,asympt,160,246,f,st_t_wave_abnormality,82,yes,4,flat,?,?,>50_1
+38,male,asympt,120,282,f,normal,170,no,0,?,?,?,>50_1
+56,male,asympt,150,230,f,st_t_wave_abnormality,124,yes,1.5,flat,?,?,>50_1
+54,male,atyp_angina,120,238,f,normal,154,no,0,?,?,?,<50
+42,male,asympt,140,358,f,normal,170,no,0,?,?,?,<50
+49,male,asympt,140,?,f,normal,130,no,0,?,?,?,<50
+54,male,atyp_angina,120,246,f,normal,110,no,0,?,?,?,<50
+50,male,atyp_angina,120,168,f,normal,160,no,0,?,0,?,<50
+50,male,asympt,140,129,f,normal,135,no,0,?,?,?,<50
+49,male,asympt,130,341,f,normal,120,yes,1,flat,?,?,>50_1
+56,male,asympt,155,342,t,normal,150,yes,3,flat,?,?,>50_1
+52,female,non_anginal,125,272,f,normal,139,no,0,?,?,?,<50
+43,female,typ_angina,100,223,f,normal,142,no,0,?,?,?,<50
+50,female,atyp_angina,110,202,f,normal,145,no,0,?,?,?,<50
+41,male,atyp_angina,120,291,f,st_t_wave_abnormality,160,no,0,?,?,?,<50
+52,male,atyp_angina,160,196,f,normal,165,no,0,?,?,?,<50
+40,female,asympt,150,392,f,normal,130,no,2,flat,?,fixed_defect,>50_1
+46,male,asympt,110,238,f,st_t_wave_abnormality,140,yes,1,flat,?,normal,<50
+52,female,atyp_angina,140,?,f,normal,140,no,0,?,?,?,<50
+63,male,asympt,150,223,f,normal,115,no,0,?,?,?,>50_1
+45,male,atyp_angina,140,224,t,normal,122,no,0,?,?,?,<50
+59,male,non_anginal,180,213,f,normal,100,no,0,?,?,?,<50
+32,female,atyp_angina,105,198,f,normal,165,no,0,?,?,?,<50
+50,male,atyp_angina,170,209,f,st_t_wave_abnormality,116,no,0,?,?,?,<50
+54,male,asympt,125,216,f,normal,140,no,0,?,?,?,>50_1
+38,male,atyp_angina,140,297,f,normal,150,no,0,?,?,?,<50
+55,male,non_anginal,110,277,f,normal,160,no,0,?,?,?,<50
+59,male,asympt,140,264,t,left_vent_hyper,119,yes,0,?,?,?,>50_1
+57,female,typ_angina,130,308,f,normal,98,no,1,flat,?,?,<50
+55,male,atyp_angina,140,196,f,normal,150,no,0,?,?,reversable_defect,<50
+50,male,asympt,140,341,f,st_t_wave_abnormality,125,yes,2.5,flat,?,?,>50_1
+44,male,asympt,130,290,f,normal,100,yes,2,flat,?,?,>50_1
+61,male,asympt,125,292,f,st_t_wave_abnormality,115,yes,0,?,?,?,<50
+50,male,asympt,150,215,f,normal,140,yes,0,?,?,?,<50
+43,female,atyp_angina,120,201,f,normal,165,no,0,?,?,?,<50
+49,female,non_anginal,130,207,f,st_t_wave_abnormality,135,no,0,?,?,?,<50
+38,male,asympt,92,117,f,normal,134,yes,2.5,flat,?,?,>50_1
+53,male,asympt,140,243,f,normal,155,no,0,?,?,?,<50
+52,male,asympt,170,?,f,normal,126,yes,1.5,flat,?,?,>50_1
+58,male,atyp_angina,130,230,f,normal,150,no,0,?,?,?,<50
+41,female,atyp_angina,110,250,f,st_t_wave_abnormality,142,no,0,?,?,?,<50
+54,female,non_anginal,130,294,f,st_t_wave_abnormality,100,yes,0,flat,?,?,>50_1
+46,male,asympt,120,231,f,normal,115,yes,0,?,?,?,>50_1
+41,male,asympt,110,289,f,normal,170,no,0,?,?,fixed_defect,>50_1
+43,female,atyp_angina,120,249,f,st_t_wave_abnormality,176,no,0,?,?,?,<50
+54,male,non_anginal,120,217,f,normal,137,no,0,?,?,?,<50
+42,male,non_anginal,160,147,f,normal,146,no,0,?,?,?,<50
+39,male,non_anginal,120,339,f,normal,170,no,0,?,?,?,<50
+34,male,typ_angina,140,156,f,normal,180,no,0,?,?,?,>50_1
+50,male,atyp_angina,140,216,f,normal,170,no,0,?,?,normal,<50
+37,male,atyp_angina,130,283,f,st_t_wave_abnormality,98,no,0,?,?,?,<50
+54,male,asympt,125,224,f,normal,122,no,2,flat,?,?,>50_1
+56,female,non_anginal,130,219,?,st_t_wave_abnormality,164,no,0,?,?,reversable_defect,<50
+41,female,atyp_angina,130,245,f,normal,150,no,0,?,?,?,<50
+47,male,asympt,160,291,f,st_t_wave_abnormality,158,yes,3,flat,?,?,>50_1
+49,male,non_anginal,140,187,f,normal,172,no,0,?,?,?,<50
+46,female,asympt,130,238,f,normal,90,no,0,?,?,?,<50
+30,female,typ_angina,170,237,f,st_t_wave_abnormality,170,no,0,?,?,fixed_defect,<50
+44,male,atyp_angina,120,184,f,normal,142,no,1,flat,?,?,<50
+46,male,asympt,180,280,f,st_t_wave_abnormality,120,no,0,?,?,?,<50
+53,male,asympt,130,182,f,normal,148,no,0,?,?,?,<50
+55,male,asympt,140,229,f,normal,110,yes,0.5,flat,?,?,<50
+58,male,non_anginal,140,179,f,normal,160,no,0,?,?,?,<50
+48,male,asympt,160,355,f,normal,99,yes,2,flat,?,?,>50_1
+52,female,atyp_angina,120,210,f,normal,148,no,0,?,?,?,<50
+47,female,non_anginal,135,248,t,normal,170,no,0,?,?,?,>50_1
+46,male,non_anginal,120,230,f,normal,150,no,0,?,?,?,<50
+39,male,asympt,130,307,f,normal,140,no,0,?,?,?,<50
+46,male,atyp_angina,140,275,f,normal,165,yes,0,?,?,?,<50
+49,male,asympt,140,234,f,normal,140,yes,1,flat,?,?,>50_1
+56,female,atyp_angina,120,279,f,normal,150,no,1,flat,?,?,>50_1
+48,male,atyp_angina,130,245,f,normal,160,no,0,?,?,?,<50
+48,female,atyp_angina,120,?,t,st_t_wave_abnormality,148,no,0,?,?,?,<50
+54,female,atyp_angina,120,221,f,normal,138,no,1,up,?,?,<50
+51,male,atyp_angina,125,188,f,normal,145,no,0,?,?,?,<50
+54,female,atyp_angina,130,253,f,st_t_wave_abnormality,155,no,0,?,?,?,<50
+42,male,non_anginal,120,228,f,normal,152,yes,1.5,flat,?,?,<50
+43,female,atyp_angina,120,266,f,normal,118,no,0,?,?,?,<50
+52,male,atyp_angina,140,100,f,normal,138,yes,0,?,?,?,<50
+53,male,non_anginal,145,518,f,normal,130,no,0,?,?,?,>50_1
+59,female,asympt,130,338,t,st_t_wave_abnormality,130,yes,1.5,flat,?,?,>50_1
+54,male,non_anginal,150,?,f,normal,122,no,0,?,?,?,<50
+40,male,non_anginal,130,281,f,normal,167,no,0,?,?,?,<50
+44,male,asympt,150,412,f,normal,170,no,0,?,?,?,<50
+57,female,asympt,180,347,f,st_t_wave_abnormality,126,yes,0.8,flat,?,?,<50
+54,male,asympt,140,?,f,normal,118,yes,0,?,?,?,>50_1

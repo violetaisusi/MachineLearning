@@ -1,0 +1,7 @@
+Dataset - hepatitis - Wed Apr 29 13:01:06 2015
+entropy -> 0.125137719033229
+overallAccuracyModel rate for this run 79.4871794871795 %
+correctly Classified for this run -> 41 -> of -> 50
+correctly Classified Rate -> Accuracy rate for this run -> 82 %
+AUC rate for this run -> 73 %
+Entropy - Diversity -> 0.125137719033229

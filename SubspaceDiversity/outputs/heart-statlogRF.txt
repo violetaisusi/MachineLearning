@@ -1,0 +1,7 @@
+Dataset - heart-statlog - Wed Apr 29 13:01:05 2015
+entropy -> 0.487609655899341
+overallAccuracyModel rate for this run 73.4262125902993 %
+correctly Classified for this run -> 66 -> of -> 89
+correctly Classified Rate -> Accuracy rate for this run -> 74.1573033707865 %
+AUC rate for this run -> 73.5966735966736 %
+Entropy - Diversity -> 0.487609655899341

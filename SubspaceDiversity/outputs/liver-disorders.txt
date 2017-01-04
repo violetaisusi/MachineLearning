@@ -1,0 +1,339 @@
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Run  3  Wed Mar 25 12:45:10 2015
+correctly Classified for this run -> 78 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 69.0265486725664 %
+AUC rate for this run -> 55.5866013071897 %
+Entropy - Diversity rate for this run -> -> 80.7007759606887 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Run  3  Wed Mar 25 12:45:10 2015
+correctly Classified for this run -> 78 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 69.0265486725664 %
+AUC rate for this run -> 55.5866013071897 %
+Entropy - Diversity rate for this run -> -> 80.7007759606887 -> %
+Run  4  Wed Mar 25 12:50:16 2015
+correctly Classified for this run -> 14 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 12.3893805309735 %
+AUC rate for this run -> 56.5424836601309 %
+Entropy - Diversity rate for this run -> -> 78.3763622874946 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Run  3  Wed Mar 25 12:45:10 2015
+correctly Classified for this run -> 78 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 69.0265486725664 %
+AUC rate for this run -> 55.5866013071897 %
+Entropy - Diversity rate for this run -> -> 80.7007759606887 -> %
+Run  4  Wed Mar 25 12:50:16 2015
+correctly Classified for this run -> 14 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 12.3893805309735 %
+AUC rate for this run -> 56.5424836601309 %
+Entropy - Diversity rate for this run -> -> 78.3763622874946 -> %
+Run  5  Wed Mar 25 12:55:21 2015
+correctly Classified for this run -> 93 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 82.3008849557522 %
+AUC rate for this run -> 55.6977124183008 %
+Entropy - Diversity rate for this run -> -> 81.1642420558777 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Run  3  Wed Mar 25 12:45:10 2015
+correctly Classified for this run -> 78 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 69.0265486725664 %
+AUC rate for this run -> 55.5866013071897 %
+Entropy - Diversity rate for this run -> -> 80.7007759606887 -> %
+Run  4  Wed Mar 25 12:50:16 2015
+correctly Classified for this run -> 14 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 12.3893805309735 %
+AUC rate for this run -> 56.5424836601309 %
+Entropy - Diversity rate for this run -> -> 78.3763622874946 -> %
+Run  5  Wed Mar 25 12:55:21 2015
+correctly Classified for this run -> 93 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 82.3008849557522 %
+AUC rate for this run -> 55.6977124183008 %
+Entropy - Diversity rate for this run -> -> 81.1642420558777 -> %
+Run  6  Wed Mar 25 13:00:24 2015
+correctly Classified for this run -> 18 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 15.929203539823 %
+AUC rate for this run -> 58.5179738562092 %
+Entropy - Diversity rate for this run -> -> 77.4765809048678 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Run  3  Wed Mar 25 12:45:10 2015
+correctly Classified for this run -> 78 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 69.0265486725664 %
+AUC rate for this run -> 55.5866013071897 %
+Entropy - Diversity rate for this run -> -> 80.7007759606887 -> %
+Run  4  Wed Mar 25 12:50:16 2015
+correctly Classified for this run -> 14 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 12.3893805309735 %
+AUC rate for this run -> 56.5424836601309 %
+Entropy - Diversity rate for this run -> -> 78.3763622874946 -> %
+Run  5  Wed Mar 25 12:55:21 2015
+correctly Classified for this run -> 93 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 82.3008849557522 %
+AUC rate for this run -> 55.6977124183008 %
+Entropy - Diversity rate for this run -> -> 81.1642420558777 -> %
+Run  6  Wed Mar 25 13:00:24 2015
+correctly Classified for this run -> 18 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 15.929203539823 %
+AUC rate for this run -> 58.5179738562092 %
+Entropy - Diversity rate for this run -> -> 77.4765809048678 -> %
+Run  7  Wed Mar 25 13:05:29 2015
+correctly Classified for this run -> 75 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 66.3716814159292 %
+AUC rate for this run -> 56.1699346405231 %
+Entropy - Diversity rate for this run -> -> 73.4963699122272 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Run  3  Wed Mar 25 12:45:10 2015
+correctly Classified for this run -> 78 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 69.0265486725664 %
+AUC rate for this run -> 55.5866013071897 %
+Entropy - Diversity rate for this run -> -> 80.7007759606887 -> %
+Run  4  Wed Mar 25 12:50:16 2015
+correctly Classified for this run -> 14 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 12.3893805309735 %
+AUC rate for this run -> 56.5424836601309 %
+Entropy - Diversity rate for this run -> -> 78.3763622874946 -> %
+Run  5  Wed Mar 25 12:55:21 2015
+correctly Classified for this run -> 93 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 82.3008849557522 %
+AUC rate for this run -> 55.6977124183008 %
+Entropy - Diversity rate for this run -> -> 81.1642420558777 -> %
+Run  6  Wed Mar 25 13:00:24 2015
+correctly Classified for this run -> 18 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 15.929203539823 %
+AUC rate for this run -> 58.5179738562092 %
+Entropy - Diversity rate for this run -> -> 77.4765809048678 -> %
+Run  7  Wed Mar 25 13:05:29 2015
+correctly Classified for this run -> 75 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 66.3716814159292 %
+AUC rate for this run -> 56.1699346405231 %
+Entropy - Diversity rate for this run -> -> 73.4963699122272 -> %
+Run  8  Wed Mar 25 13:10:40 2015
+correctly Classified for this run -> 20 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 17.6991150442478 %
+AUC rate for this run -> 56.5441176470591 %
+Entropy - Diversity rate for this run -> -> 74.3968750579619 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Run  3  Wed Mar 25 12:45:10 2015
+correctly Classified for this run -> 78 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 69.0265486725664 %
+AUC rate for this run -> 55.5866013071897 %
+Entropy - Diversity rate for this run -> -> 80.7007759606887 -> %
+Run  4  Wed Mar 25 12:50:16 2015
+correctly Classified for this run -> 14 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 12.3893805309735 %
+AUC rate for this run -> 56.5424836601309 %
+Entropy - Diversity rate for this run -> -> 78.3763622874946 -> %
+Run  5  Wed Mar 25 12:55:21 2015
+correctly Classified for this run -> 93 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 82.3008849557522 %
+AUC rate for this run -> 55.6977124183008 %
+Entropy - Diversity rate for this run -> -> 81.1642420558777 -> %
+Run  6  Wed Mar 25 13:00:24 2015
+correctly Classified for this run -> 18 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 15.929203539823 %
+AUC rate for this run -> 58.5179738562092 %
+Entropy - Diversity rate for this run -> -> 77.4765809048678 -> %
+Run  7  Wed Mar 25 13:05:29 2015
+correctly Classified for this run -> 75 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 66.3716814159292 %
+AUC rate for this run -> 56.1699346405231 %
+Entropy - Diversity rate for this run -> -> 73.4963699122272 -> %
+Run  8  Wed Mar 25 13:10:40 2015
+correctly Classified for this run -> 20 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 17.6991150442478 %
+AUC rate for this run -> 56.5441176470591 %
+Entropy - Diversity rate for this run -> -> 74.3968750579619 -> %
+Run  9  Wed Mar 25 13:16:00 2015
+correctly Classified for this run -> 87 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 76.9911504424779 %
+AUC rate for this run -> 60.3578431372545 %
+Entropy - Diversity rate for this run -> -> 77.9081555630224 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Run  3  Wed Mar 25 12:45:10 2015
+correctly Classified for this run -> 78 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 69.0265486725664 %
+AUC rate for this run -> 55.5866013071897 %
+Entropy - Diversity rate for this run -> -> 80.7007759606887 -> %
+Run  4  Wed Mar 25 12:50:16 2015
+correctly Classified for this run -> 14 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 12.3893805309735 %
+AUC rate for this run -> 56.5424836601309 %
+Entropy - Diversity rate for this run -> -> 78.3763622874946 -> %
+Run  5  Wed Mar 25 12:55:21 2015
+correctly Classified for this run -> 93 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 82.3008849557522 %
+AUC rate for this run -> 55.6977124183008 %
+Entropy - Diversity rate for this run -> -> 81.1642420558777 -> %
+Run  6  Wed Mar 25 13:00:24 2015
+correctly Classified for this run -> 18 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 15.929203539823 %
+AUC rate for this run -> 58.5179738562092 %
+Entropy - Diversity rate for this run -> -> 77.4765809048678 -> %
+Run  7  Wed Mar 25 13:05:29 2015
+correctly Classified for this run -> 75 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 66.3716814159292 %
+AUC rate for this run -> 56.1699346405231 %
+Entropy - Diversity rate for this run -> -> 73.4963699122272 -> %
+Run  8  Wed Mar 25 13:10:40 2015
+correctly Classified for this run -> 20 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 17.6991150442478 %
+AUC rate for this run -> 56.5441176470591 %
+Entropy - Diversity rate for this run -> -> 74.3968750579619 -> %
+Run  9  Wed Mar 25 13:16:00 2015
+correctly Classified for this run -> 87 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 76.9911504424779 %
+AUC rate for this run -> 60.3578431372545 %
+Entropy - Diversity rate for this run -> -> 77.9081555630224 -> %
+Run  10  Wed Mar 25 13:21:22 2015
+correctly Classified for this run -> 77 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 68.141592920354 %
+AUC rate for this run -> 55.8774509803923 %
+Entropy - Diversity rate for this run -> -> 73.4148025017741 -> %
+Dataset - liver-disorders - Wed Mar 25 12:29:39 2015
+Run  1  Wed Mar 25 12:34:42 2015
+correctly Classified for this run -> 76 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 67.2566371681416 %
+AUC rate for this run -> 56.1437908496731 %
+Entropy - Diversity rate for this run -> -> 77.5117910509259 -> %
+Run  2  Wed Mar 25 12:39:57 2015
+correctly Classified for this run -> 92 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 81.4159292035398 %
+AUC rate for this run -> 58.5065359477123 %
+Entropy - Diversity rate for this run -> -> 75.6381761213127 -> %
+Run  3  Wed Mar 25 12:45:10 2015
+correctly Classified for this run -> 78 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 69.0265486725664 %
+AUC rate for this run -> 55.5866013071897 %
+Entropy - Diversity rate for this run -> -> 80.7007759606887 -> %
+Run  4  Wed Mar 25 12:50:16 2015
+correctly Classified for this run -> 14 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 12.3893805309735 %
+AUC rate for this run -> 56.5424836601309 %
+Entropy - Diversity rate for this run -> -> 78.3763622874946 -> %
+Run  5  Wed Mar 25 12:55:21 2015
+correctly Classified for this run -> 93 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 82.3008849557522 %
+AUC rate for this run -> 55.6977124183008 %
+Entropy - Diversity rate for this run -> -> 81.1642420558777 -> %
+Run  6  Wed Mar 25 13:00:24 2015
+correctly Classified for this run -> 18 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 15.929203539823 %
+AUC rate for this run -> 58.5179738562092 %
+Entropy - Diversity rate for this run -> -> 77.4765809048678 -> %
+Run  7  Wed Mar 25 13:05:29 2015
+correctly Classified for this run -> 75 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 66.3716814159292 %
+AUC rate for this run -> 56.1699346405231 %
+Entropy - Diversity rate for this run -> -> 73.4963699122272 -> %
+Run  8  Wed Mar 25 13:10:40 2015
+correctly Classified for this run -> 20 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 17.6991150442478 %
+AUC rate for this run -> 56.5441176470591 %
+Entropy - Diversity rate for this run -> -> 74.3968750579619 -> %
+Run  9  Wed Mar 25 13:16:00 2015
+correctly Classified for this run -> 87 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 76.9911504424779 %
+AUC rate for this run -> 60.3578431372545 %
+Entropy - Diversity rate for this run -> -> 77.9081555630224 -> %
+Run  10  Wed Mar 25 13:21:22 2015
+correctly Classified for this run -> 77 -> of -> 113
+correctly Classified Rate -> Accuracy rate for this run -> 68.141592920354 %
+AUC rate for this run -> 55.8774509803923 %
+Entropy - Diversity rate for this run -> -> 73.4148025017741 -> %
+Average Accuracy -> 55.7522123893805 %
+Average AUC -> 56.9944444444445 %
+Average Entropy - Diversity -> 77.0084131416153 %

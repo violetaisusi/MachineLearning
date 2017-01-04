@@ -1,0 +1,7 @@
+Dataset - heart-c - Wed Apr 29 13:01:08 2015
+entropy -> 0.49627752916211
+overallAccuracyModel rate for this run 25.9698996655518 %
+correctly Classified for this run -> 66 -> of -> 100
+correctly Classified Rate -> Accuracy rate for this run -> 66 %
+AUC rate for this run -> NaN %
+Entropy - Diversity -> 0.49627752916211

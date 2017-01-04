@@ -1,0 +1,7 @@
+Dataset - lymph - Wed Apr 29 13:01:07 2015
+entropy -> 0.450930429903781
+overallAccuracyModel rate for this run 38.0952380952381 %
+correctly Classified for this run -> 33 -> of -> 48
+correctly Classified Rate -> Accuracy rate for this run -> 68.75 %
+AUC rate for this run -> NaN %
+Entropy - Diversity -> 0.450930429903781

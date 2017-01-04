@@ -1,0 +1,7 @@
+Dataset - glass - Wed Apr 29 13:00:59 2015
+entropy -> 0.453623929817646
+overallAccuracyModel rate for this run 48.0612244897959 %
+correctly Classified for this run -> 46 -> of -> 70
+correctly Classified Rate -> Accuracy rate for this run -> 65.7142857142857 %
+AUC rate for this run -> NaN %
+Entropy - Diversity -> 0.453623929817646
